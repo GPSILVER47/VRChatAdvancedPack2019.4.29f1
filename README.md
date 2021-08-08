@@ -27,15 +27,17 @@ The materials called "DELETE" are only placeholders. Delete them!
 
     It acts like a all in one package made for toggles + a measuring tool.
 
-Here is a YouTube tutorial from me.
+Here is a YouTube tutorial from me https://youtu.be/sTQBgaD1CnI
 
-I made this package, because some people in the Discord Server from VRChat, had problems doing toggles. The YouTube tutorial didN#t helped them.
+I've made this package, because some people in the Discord Server from VRChat, had problems doing toggles. The YouTube tutorial didn't helped them.
 This package + my video could help.
 
 Report any issues.
 
+
 If this package helped, please let me know via linktree in my profile.
 
-Thank you & i see you in VRChat!
 
-Report any issues.
+Thank you & i'll see you in VRChat!
+
+
