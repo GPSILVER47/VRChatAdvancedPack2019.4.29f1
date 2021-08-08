@@ -4,7 +4,7 @@ A All-In-One VRChat Unity  Avatar Package made for Toggles + useful tools.
 
 This package is made for object toggles & includes everything you need pre-build. It does not include how to make gestures, sitting etc. animations/emotes.
 
-This is a Unity Package made for VRChat Avatars 3.0 SDK, which includes:
+This is a Unity Package made for VRChat Avatars 3.0 SDK & Unity 2019.4.29f1, which includes:
 
     Latest VRCSDK3-AVATAR-2021.08.04.11.23_Public
     Default rigged avatar
@@ -25,7 +25,6 @@ This is a Unity Package made for VRChat Avatars 3.0 SDK, which includes:
 
 The materials called "DELETE" are only placeholders. Delete them!
 
-    It acts like a all in one package made for toggles + a measuring tool.
 
 Here is a YouTube tutorial from me https://youtu.be/sTQBgaD1CnI
 
