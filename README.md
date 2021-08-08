@@ -8,7 +8,7 @@ This is a Unity Package made for VRChat Avatars 3.0 SDK & Unity 2019.4.29f1, whi
 
     Latest VRCSDK3-AVATAR-2021.08.04.11.23_Public
     Default rigged avatar
-    A mesh for measuring your height in cm & meter
+    A ruler in cm & meter
     5 Main Folders:
 
     3.0 Animations (Menu & Parameter Folder thath includes the Parameter & Menu's), (Animation Folder with the Action & FX Layer)
