@@ -22,7 +22,7 @@ This is a Unity Package made for VRChat Avatars 3.0 SDK & Unity 2019.4.29f1, whi
     Top Menu (Which is the Expressions Button in VRChat. Where you can add more Sub Menu's, like Emotes, Objects etc or just Toggles)
     Two Sub-Menus (Default Emotes & Objects) already added to the Top Menu.
     Parameter
-    3 Expression Menus (Default_Emotes, Objects, SFX)
+    3 Expression Menu's (Default_Emotes, Objects, SFX)
     Default Action Layer & a custom FX Layer for Playable Layers
 
 The materials called "DELETE" are only placeholders. Delete them!
