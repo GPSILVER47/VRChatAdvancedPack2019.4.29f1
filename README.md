@@ -30,7 +30,7 @@ The materials called "DELETE" are only placeholders. Delete them!
 
 Here is a YouTube tutorial from me https://youtu.be/_H10F9TkdOM
 
-I've made this package, because some people in the Discord Server from VRChat, had problems doing toggles. The YouTube tutorial didn't helped them.
+I've made this package, because some people in the Discord Server from VRChat, had problems doing toggles. The YouTube tutorials didn't helped them.
 This package + my video could help.
 
 Report any issues.
