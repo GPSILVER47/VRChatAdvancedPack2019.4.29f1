@@ -28,7 +28,7 @@ This is a Unity Package made for VRChat Avatars 3.0 SDK & Unity 2019.4.29f1, whi
 The materials called "DELETE" are only placeholders. Delete them!
 
 
-Here is a YouTube tutorial from me https://youtu.be/sTQBgaD1CnI
+Here is a YouTube tutorial from me https://youtu.be/_H10F9TkdOM
 
 I've made this package, because some people in the Discord Server from VRChat, had problems doing toggles. The YouTube tutorial didn't helped them.
 This package + my video could help.
