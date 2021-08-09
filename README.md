@@ -4,6 +4,8 @@ A All-In-One VRChat Unity  Avatar Package made for Toggles + useful tools.
 
 This package is made for object toggles & includes everything you need pre-build. It does not include how to make gestures, sitting etc. animations/emotes.
 
+I always use this, when i am making my avatars.
+
 This is a Unity Package made for VRChat Avatars 3.0 SDK & Unity 2019.4.29f1, which includes:
 
     Latest VRCSDK3-AVATAR-2021.08.04.11.23_Public
